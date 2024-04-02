@@ -11,7 +11,7 @@
 | - | - |
 |Has all necessary components|Missing multiplicity|
 |Realizes all methods|Each item class has connection to db|
-|||
+
 
 **Design-2**
 
@@ -51,8 +51,8 @@
 |**PROS**|**CONS**|
 | - | - |
 |Has all necessary components|Hard to follow visually|
-|||
-|||
+
+
 
 **Design-5 Anmol Talwar**
 
@@ -64,7 +64,10 @@
 | - | - |
 |Database|Missing grocery list manager class|
 |Data model of user|Unnecessary user class|
-|||
+
+
+
+
 **Design-Team**
 
 ![](Aspose.Words.3638cea3-d032-4a9b-9461-13c4bb514d63.006.jpeg)
