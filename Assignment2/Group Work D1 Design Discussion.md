@@ -2,7 +2,8 @@
 
 **Muhammad Vali**
 
-![](Aspose.Words.3638cea3-d032-4a9b-9461-13c4bb514d63.001.jpeg)
+![image (1)](https://github.com/anmoltalwar2615/test370/assets/145176535/dbf45cf7-01a0-4d80-a749-be9b78803344)
+
 
 
 
