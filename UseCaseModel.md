@@ -6,7 +6,8 @@ Author: Team 1
 
 User: Anyone who is using the grocery list manager app to manage their grocery lists
 
-"C:\Users\anmol\Desktop\370 -D2\UseCaseModel #1.png"
+![UseCaseModel #1](https://github.com/anmoltalwar2615/test370/assets/145176535/dcaa4881-7f76-4815-a8ee-4388ef1e45b1)
+
 
 Use cases:
 1. Create grocery list: User can create new lists
