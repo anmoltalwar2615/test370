@@ -26,17 +26,13 @@ Identifiers for grocery items by -name and by item -type
 
 Team - 1: Anmol Talwar, Muhammad Vali, Sabrina Zheng, Jason Liu, Kevin Xia
 
-Members	Role
-Anmol Talwar	Project Manager / Software Engineer
----	---
-Muhammad Vali	Documentation Writer / Database Engineer
----	---
-Sabrina Zheng	Database Engineer
----	---
-Jason Liu	Quality Assurance (QA) Tester
----	---
-Kevin Xia	UI Designer
----	---
+|**Members**|**Role**|
+| :- | :- |
+|Anmol Talwar |Project Manager / Software Engineer|
+|Muhammad Vali |Documentation Writer / Database Engineer |
+|Sabrina Zheng|Database Engineer |
+|Jason Liu|Quality Assurance (QA) Tester|
+|Kevin Xia|UI Designer|
 
 
 
