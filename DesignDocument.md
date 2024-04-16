@@ -53,17 +53,17 @@ Internet Connection: Although not explicitly shown in the deployment diagram, it
 
 ### 3.1 Class Diagram
 
-![DesignDocument #3 1](https://github.com/qc-se-fall23/370Fall23Sec132Team6/assets/143972565/c2da96af-9aeb-472b-b1e9-016d8eb7a032)
+![DesignDocument #3 1](https://github.com/anmoltalwar2615/test370/assets/145176535/f5592b19-fec8-4748-b048-8051cf44d9d6)
 
 
 
 ### 3.2 Other Diagrams
 
-![DesignDocument #3 2 prt1](https://github.com/qc-se-fall23/370Fall23Sec132Team6/assets/143972565/56d976a8-58a4-4207-8e5a-4ecc39281bc1)
+![DesignDocument #3 2 prt1](https://github.com/anmoltalwar2615/test370/assets/145176535/9719f404-6334-468d-a09c-fdd0af268996)
 
 
+![DesignDocument #3 2 prt2](https://github.com/anmoltalwar2615/test370/assets/145176535/c925a24c-d7d3-47c0-8079-b5b4015d5180)
 
-![DesignDocument #3 2 prt2](https://github.com/qc-se-fall23/370Fall23Sec132Team6/assets/143972565/c8eae841-2192-46be-84d2-162a44e8c1a2)
 
 
 
@@ -89,6 +89,5 @@ SystemInfoView - has the user manual, a list of frequently asked questions and c
 
 ##
 
-![DesignDocument last part](https://github.com/qc-se-fall23/370Fall23Sec132Team6/assets/143972565/8936938f-55a0-42b2-bcb2-4a02cb06002c)
-
+![DesignDocument last part](https://github.com/anmoltalwar2615/test370/assets/145176535/c4710e21-0ee7-4874-b20e-75b6dbfe81ff)
 
