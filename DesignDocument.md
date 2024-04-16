@@ -29,7 +29,8 @@ Software: Android operating system version 7.0 (Nougat) or higher, Java JDK
 
 ### 2.1 Component Diagram
 
-![DesignDocument #2 1](https://github.com/qc-se-fall23/370Fall23Sec132Team6/assets/143972565/f8d80134-f0de-44eb-9499-3c6e3f526041)
+![DesignDocument #2 1](https://github.com/anmoltalwar2615/test370/assets/145176535/f6ad95a2-2c7a-4398-ae1c-5c9ea2fab72d)
+
 
 
 ### 2.2 Deployment Diagram
